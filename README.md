@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fWlDEmP-dUKWgAJcHfFLAWb2VqfcEy9vJQ&usqp=CAU)] -->
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fWlDEmP-dUKWgAJcHfFLAWb2VqfcEy9vJQ&usqp=CAU" width="1000" height="320">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fWlDEmP-dUKWgAJcHfFLAWb2VqfcEy9vJQ&usqp=CAU" width="1000" height="250">
 <h1 align="center">Hi 👋, I am Okafor Samuel</h1>
 <h3 align="center">I'm a skilled software engineer with a knack for turning ideas into reality, and I'm all about creating user-friendly solutions.</h3>
 <img align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
