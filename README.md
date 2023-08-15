@@ -1,6 +1,7 @@
 <!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fWlDEmP-dUKWgAJcHfFLAWb2VqfcEy9vJQ&usqp=CAU)] -->
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fWlDEmP-dUKWgAJcHfFLAWb2VqfcEy9vJQ&usqp=CAU" width="1000" height="250">
+<!--<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fWlDEmP-dUKWgAJcHfFLAWb2VqfcEy9vJQ&usqp=CAU" width="1000" height="250">-->
+<img src = "https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" >
 <h1 align="center">Hi 👋, I am Okafor Samuel</h1>
 <h3 align="center">I'm a skilled software engineer with a knack for turning ideas into reality, and I'm all about creating user-friendly solutions.</h3>
 <img align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
